@@ -1,0 +1,28 @@
+_repo: Australasian-Democracy_34887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walker, Henry de Rosenbach
+    alias: Walker, H. de R. (Henry de Rosenbach)
+    birthdate: 1867
+    gutenberg_agent_id: '37300'
+    url: http://www.gutenberg.org/2009/agents/37300
+description: ''
+gutenberg_issued: '2011-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34887'
+  lccn: '10003800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Politics and government'
+- !lcsh 'Great Britain -- Colonies -- Australia'
+- !lcc 'JQ'
+title: Australasian Democracy
+url: http://www.gutenberg.org/ebooks/34887
